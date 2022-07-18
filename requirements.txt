@@ -1,0 +1,6 @@
+pandas
+selenium
+bs4
+openpyxl
+beautifulsoup4
+prettytable
